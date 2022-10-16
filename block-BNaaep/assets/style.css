@@ -1,0 +1,12 @@
+.contacts {
+  display: flex;
+  justify-content: center;
+}
+span {
+  display: block;
+  text-align: center;
+}
+h1,
+h5 {
+  text-align: center;
+}
